@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Shang-Yi Chuang</title>
+    <link>https://kagaminccino.github.io/publication-type/2/</link>
+      <atom:link href="https://kagaminccino.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kagaminccino.github.io/images/icon_huec9dbe9c8829611ff3fd1584fff9e567_3923_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://kagaminccino.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Improved lite audio-visual speech enhancement</title>
+      <link>https://kagaminccino.github.io/publication/chuang2020improved/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://kagaminccino.github.io/publication/chuang2020improved/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
