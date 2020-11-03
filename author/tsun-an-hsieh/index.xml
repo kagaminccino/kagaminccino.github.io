@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tsun-An Hsieh on Shang-Yi Chuang</title>
+    <title>Tsun-An Hsieh | Shang-Yi Chuang</title>
     <link>https://kagaminccino.github.io/author/tsun-an-hsieh/</link>
-    <description>Recent content in Tsun-An Hsieh on Shang-Yi Chuang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kagaminccino.github.io/author/tsun-an-hsieh/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://kagaminccino.github.io/author/tsun-an-hsieh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tsun-An Hsieh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kagaminccino.github.io/images/icon_huec9dbe9c8829611ff3fd1584fff9e567_3923_512x512_fill_lanczos_center_2.png</url>
+      <title>Tsun-An Hsieh</title>
+      <link>https://kagaminccino.github.io/author/tsun-an-hsieh/</link>
+    </image>
+    
     <item>
       <title>Boosting Objective Scores of Speech Enhancement Model through MetricGAN Post-Processing</title>
       <link>https://kagaminccino.github.io/publication/fu2020boosting/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://kagaminccino.github.io/publication/fu2020boosting/</guid>
       <description></description>
     </item>

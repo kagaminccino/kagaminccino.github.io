@@ -1,1 +1,3 @@
 User-agent: *
+
+Sitemap: https://kagaminccino.github.io/sitemap.xml
