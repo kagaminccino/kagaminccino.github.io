@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yu Tsao | Shang-Yi Chuang</title>
+    <title>Yu Tsao on Shang-Yi Chuang</title>
     <link>https://kagaminccino.github.io/author/yu-tsao/</link>
-      <atom:link href="https://kagaminccino.github.io/author/yu-tsao/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yu Tsao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://kagaminccino.github.io/images/icon_huec9dbe9c8829611ff3fd1584fff9e567_3923_512x512_fill_lanczos_center_2.png</url>
-      <title>Yu Tsao</title>
-      <link>https://kagaminccino.github.io/author/yu-tsao/</link>
-    </image>
-    
+    <description>Recent content in Yu Tsao on Shang-Yi Chuang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kagaminccino.github.io/author/yu-tsao/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Improved lite audio-visual speech enhancement</title>
       <link>https://kagaminccino.github.io/publication/chuang2020improved/</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://kagaminccino.github.io/publication/chuang2020improved/</guid>
       <description></description>
     </item>
@@ -24,6 +20,7 @@
       <title>Lite Audio-Visual Speech Enhancement</title>
       <link>https://kagaminccino.github.io/publication/chuang2020lite/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://kagaminccino.github.io/publication/chuang2020lite/</guid>
       <description></description>
     </item>
@@ -32,6 +29,7 @@
       <title>Boosting Objective Scores of Speech Enhancement Model through MetricGAN Post-Processing</title>
       <link>https://kagaminccino.github.io/publication/fu2020boosting/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://kagaminccino.github.io/publication/fu2020boosting/</guid>
       <description></description>
     </item>
