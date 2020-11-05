@@ -5,12 +5,20 @@
     <link>https://kagaminccino.github.io/author/yu-tsao/</link>
       <atom:link href="https://kagaminccino.github.io/author/yu-tsao/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu Tsao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kagaminccino.github.io/images/icon_huec9dbe9c8829611ff3fd1584fff9e567_3923_512x512_fill_lanczos_center_2.png</url>
       <title>Yu Tsao</title>
       <link>https://kagaminccino.github.io/author/yu-tsao/</link>
     </image>
+    
+    <item>
+      <title>A Study of Incorporating Articulatory Movement Information in Speech Enhancement</title>
+      <link>https://kagaminccino.github.io/publication/chen2020study/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://kagaminccino.github.io/publication/chen2020study/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improved lite audio-visual speech enhancement</title>
