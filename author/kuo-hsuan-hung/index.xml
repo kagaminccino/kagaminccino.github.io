@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kuo-Hsuan Hung on Shang-Yi Chuang</title>
+    <title>Kuo-Hsuan Hung | Shang-Yi Chuang</title>
     <link>https://kagaminccino.github.io/author/kuo-hsuan-hung/</link>
-    <description>Recent content in Kuo-Hsuan Hung on Shang-Yi Chuang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kagaminccino.github.io/author/kuo-hsuan-hung/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://kagaminccino.github.io/author/kuo-hsuan-hung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kuo-Hsuan Hung</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kagaminccino.github.io/images/icon_hu982bd8a96b6ab9861b1107b0062c92b1_253357_512x512_fill_lanczos_center_2.png</url>
+      <title>Kuo-Hsuan Hung</title>
+      <link>https://kagaminccino.github.io/author/kuo-hsuan-hung/</link>
+    </image>
+    
     <item>
       <title>EMA2S: An End-to-End Multimodal Articulatory-to-Speech System</title>
       <link>https://kagaminccino.github.io/publication/chen2020ema/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://kagaminccino.github.io/publication/chen2020ema/</guid>
       <description></description>
     </item>
@@ -20,7 +24,6 @@
       <title>A Study of Incorporating Articulatory Movement Information in Speech Enhancement</title>
       <link>https://kagaminccino.github.io/publication/chen2020study/</link>
       <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://kagaminccino.github.io/publication/chen2020study/</guid>
       <description></description>
     </item>
@@ -29,7 +32,6 @@
       <title>Boosting Objective Scores of Speech Enhancement Model through MetricGAN Post-Processing</title>
       <link>https://kagaminccino.github.io/publication/fu2020boosting/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://kagaminccino.github.io/publication/fu2020boosting/</guid>
       <description></description>
     </item>

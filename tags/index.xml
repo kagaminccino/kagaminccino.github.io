@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Shang-Yi Chuang</title>
+    <title>Tags | Shang-Yi Chuang</title>
     <link>https://kagaminccino.github.io/tags/</link>
-    <description>Recent content in Tags on Shang-Yi Chuang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://kagaminccino.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://kagaminccino.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://kagaminccino.github.io/images/icon_hu982bd8a96b6ab9861b1107b0062c92b1_253357_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://kagaminccino.github.io/tags/</link>
+    </image>
+    
   </channel>
 </rss>
