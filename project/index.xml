@@ -1,52 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Shang-Yi Chuang</title>
+    <title>Projects on Shang-Yi Chuang</title>
     <link>https://kagaminccino.github.io/project/</link>
-      <atom:link href="https://kagaminccino.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://kagaminccino.github.io/images/icon_hu982bd8a96b6ab9861b1107b0062c92b1_253357_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>https://kagaminccino.github.io/project/</link>
-    </image>
-    
+    <description>Recent content in Projects on Shang-Yi Chuang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kagaminccino.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taiwan Mandarin speech with video (TMSV)</title>
       <link>https://kagaminccino.github.io/project/tmsv/</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://kagaminccino.github.io/project/tmsv/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://bio-asplab.citi.sinica.edu.tw/testsml.github.io/Opensource.html#TMSV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TMSV (Taiwan Mandarin speech with video)&lt;/a&gt; is an audio-visual dataset based on the script of TMHINT (Taiwan Mandarin hearing in noise test). TMSV was recorded by 18 speakers, including 13 males and 5 females, each providing 320 video clips, amounting a total of 5,760 speech utterances. Each utterance in the TMHINT script consists of 10 Chinese characters. The length of each clip in TMSV is approximately 2–4 seconds. The video clips were recorded in a recording studio with sufficient light, and the speakers were filmed from the front view at 50 frames per second at a resolution of 1080p. The audio channels were recorded at 48 kHz. The misread labels and actual readed texts for ASR tasks are provided as well. The extracted wav files in the audio folders are downsampled to 16 kHz in mono channel.&lt;/p&gt;
-</description>
+      <description>TMSV is an audio-visual dataset based on the script of TMHINT (Taiwan Mandarin hearing in noise test).</description>
     </item>
     
     <item>
       <title>Smooth and Flexible Movement Control of a Robot Arm</title>
       <link>https://kagaminccino.github.io/project/robotarm/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://kagaminccino.github.io/project/robotarm/</guid>
-      <description>&lt;p&gt;We improved a nonlinear reference shaping controller for manipulators sharing their workspace with humans. The controller is based on the slow and rapid adaptations, which we tried to enhance. After the progress, the slow adaptation can generate movements with smooth endpoint velocity profiles when target position is changed. The rapid adaptation is upgraded as well with respect to not only significantly large external forces but also slight ones. They make the manipulators capable of behaving compliantly to the external forces, and also resuming the motion after the forces are removed, even when the shifts are small. Force detectors are unnecessary in this control system. The validity of the proposed ideas was confirmed via simulations on a planar 4-DOF manipulator.&lt;/p&gt;
-</description>
+      <description>Realizing human behavior on a robot arm based on a nonlinear reference shaping controller in order to create robots which can share a safe working environment with humans.</description>
     </item>
     
     <item>
       <title>Flyback Converter</title>
       <link>https://kagaminccino.github.io/project/flyback/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://kagaminccino.github.io/project/flyback/</guid>
-      <description>&lt;p&gt;The project of the Power Electronics Laboratory, an elective course at the Department of Electrical Engineering, NTU. Practice of PCB designing and welding.&lt;/p&gt;
-</description>
+      <description>Practice of PCB designing and welding.</description>
     </item>
     
     <item>
       <title>ME Robot Cup</title>
       <link>https://kagaminccino.github.io/project/pneumatic/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://kagaminccino.github.io/project/pneumatic/</guid>
-      <description>&lt;p&gt;The ME Robot Cup is a traditional annual event at the Department of Mechanical Engineering, NTU. The whole department, faculty and students, all enjoy the event together. Usually the competitors are junior or senior students, and freshmen and sophomore are the audience. Every year around 20 teams participate the ME Robot Cup with one robot for each. A team usually consists of 4-5 people.&lt;/p&gt;
-&lt;p&gt;The competition that year was to build a pneumatic car which could race over a specific race track with other teams. The race track includes obstacles like hills and some gates the robot needed to pass.&lt;/p&gt;
-</description>
+      <description>The ME Robot Cup is a traditional annual event at the Department of Mechanical Engineering, NTU.</description>
     </item>
     
   </channel>
