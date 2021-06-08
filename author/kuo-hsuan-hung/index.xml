@@ -5,7 +5,7 @@
     <link>https://kagaminccino.github.io/author/kuo-hsuan-hung/</link>
       <atom:link href="https://kagaminccino.github.io/author/kuo-hsuan-hung/index.xml" rel="self" type="application/rss+xml" />
     <description>Kuo-Hsuan Hung</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kagaminccino.github.io/images/icon_hu982bd8a96b6ab9861b1107b0062c92b1_253357_512x512_fill_lanczos_center_2.png</url>
       <title>Kuo-Hsuan Hung</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>EMA2S: An End-to-End Multimodal Articulatory-to-Speech System</title>
-      <link>https://kagaminccino.github.io/publication/chen2020ema/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://kagaminccino.github.io/publication/chen2020ema/</guid>
+      <title>A Study of Incorporating Articulatory Movement Information in Speech Enhancement</title>
+      <link>https://kagaminccino.github.io/publication/chen2020study/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://kagaminccino.github.io/publication/chen2020study/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Study of Incorporating Articulatory Movement Information in Speech Enhancement</title>
-      <link>https://kagaminccino.github.io/publication/chen2020study/</link>
-      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://kagaminccino.github.io/publication/chen2020study/</guid>
+      <title>EMA2S: An End-to-End Multimodal Articulatory-to-Speech System</title>
+      <link>https://kagaminccino.github.io/publication/chen2020ema/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://kagaminccino.github.io/publication/chen2020ema/</guid>
       <description></description>
     </item>
     

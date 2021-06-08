@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Lite Audio-Visual Speech Enhancement (LAVSE)</title>
+      <link>https://kagaminccino.github.io/project/lavse/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://kagaminccino.github.io/project/lavse/</guid>
+      <description>&lt;p&gt;Previous studies have confirmed the effectiveness of incorporating visual information into speech enhancement (SE) systems. Despite improved denoising performance, two problems may be encountered when implementing an audio-visual SE (AVSE) system: (1) additional processing costs are incurred to incorporate visual input and (2) the use of face or lip images may cause privacy problems. In this study, we propose a Lite AVSE (LAVSE) system to address these problems. The system includes two visual data compression techniques and removes the visual feature extraction network from the training model, yielding better online computation efficiency. Our experimental results indicate that the proposed LAVSE system can provide notably better performance than an audio-only SE system with a similar number of model parameters. In addition, the experimental results confirm the effectiveness of the two techniques for visual data compression.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Smooth and Flexible Movement Control of a Robot Arm</title>
       <link>https://kagaminccino.github.io/project/robotarm/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>

@@ -5,12 +5,20 @@
     <link>https://kagaminccino.github.io/author/shang-yi-chuang/</link>
       <atom:link href="https://kagaminccino.github.io/author/shang-yi-chuang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shang-Yi Chuang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kagaminccino.github.io/author/shang-yi-chuang/avatar_hu7fee88f3dde66526cc337e8f2191aea6_6668915_270x270_fill_lanczos_center_2.png</url>
       <title>Shang-Yi Chuang</title>
       <link>https://kagaminccino.github.io/author/shang-yi-chuang/</link>
     </image>
+    
+    <item>
+      <title>A Study of Incorporating Articulatory Movement Information in Speech Enhancement</title>
+      <link>https://kagaminccino.github.io/publication/chen2020study/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://kagaminccino.github.io/publication/chen2020study/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EMA2S: An End-to-End Multimodal Articulatory-to-Speech System</title>
@@ -25,14 +33,6 @@
       <link>https://kagaminccino.github.io/publication/chuang2020improved/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://kagaminccino.github.io/publication/chuang2020improved/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Study of Incorporating Articulatory Movement Information in Speech Enhancement</title>
-      <link>https://kagaminccino.github.io/publication/chen2020study/</link>
-      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://kagaminccino.github.io/publication/chen2020study/</guid>
       <description></description>
     </item>
     
