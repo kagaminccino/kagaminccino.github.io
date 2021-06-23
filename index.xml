@@ -46,11 +46,11 @@
     </item>
     
     <item>
-      <title>Taiwan Mandarin speech with video (TMSV)</title>
+      <title>Taiwan Mandarin Speech with Video (TMSV)</title>
       <link>https://kagaminccino.github.io/project/tmsv/</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://kagaminccino.github.io/project/tmsv/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://bio-asplab.citi.sinica.edu.tw/testsml.github.io/Opensource.html#TMSV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TMSV (Taiwan Mandarin speech with video)&lt;/a&gt; is an audio-visual dataset based on the script of TMHINT (Taiwan Mandarin hearing in noise test). TMSV was recorded by 18 speakers, including 13 males and 5 females, each providing 320 video clips, amounting a total of 5,760 speech utterances. Each utterance in the TMHINT script consists of 10 Chinese characters. The length of each clip in TMSV is approximately 2–4 seconds. The video clips were recorded in a recording studio with sufficient light, and the speakers were filmed from the front view at 50 frames per second at a resolution of 1080p. The audio channels were recorded at 48 kHz. The misread labels and actual readed texts for ASR tasks are provided as well. The extracted wav files in the audio folders are downsampled to 16 kHz in mono channel.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://bio-asplab.citi.sinica.edu.tw/testsml.github.io/Opensource.html#TMSV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TMSV (Taiwan Mandarin Speech with Video)&lt;/a&gt; is an audio-visual dataset based on the script of TMHINT (Taiwan Mandarin hearing in noise test). TMSV was recorded by 18 speakers, including 13 males and 5 females, each providing 320 video clips, amounting a total of 5,760 speech utterances. Each utterance in the TMHINT script consists of 10 Chinese characters. The length of each clip in TMSV is approximately 2–4 seconds. The video clips were recorded in a recording studio with sufficient light, and the speakers were filmed from the front view at 50 frames per second at a resolution of 1080p. The audio channels were recorded at 48 kHz. The misread labels and actual readed texts for ASR tasks are provided as well. The extracted wav files in the audio folders are downsampled to 16 kHz in mono channel.&lt;/p&gt;
 </description>
     </item>
     
