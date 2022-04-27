@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kagaminccino.github.io/project/goingeverywhere/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kagaminccino.github.io/project/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kagaminccino.github.io/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kagaminccino.github.io/publication-type/2/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,16 +20,13 @@
     <loc>https://kagaminccino.github.io/author/hsin-min-wang/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kagaminccino.github.io/publication/chuang2021improved/</loc>
+    <loc>https://kagaminccino.github.io/publication/chuang2022improved/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kagaminccino.github.io/publication_types/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kagaminccino.github.io/publication/</loc>
-    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kagaminccino.github.io/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kagaminccino.github.io/author/shang-yi-chuang/</loc>
@@ -30,9 +36,6 @@
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kagaminccino.github.io/project/ilavse/</loc>
-    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kagaminccino.github.io/project/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kagaminccino.github.io/publication-type/1/</loc>
