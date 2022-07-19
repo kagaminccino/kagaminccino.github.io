@@ -5,12 +5,20 @@
     <link>https://kagaminccino.github.io/</link>
       <atom:link href="https://kagaminccino.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shang-Yi Chuang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kagaminccino.github.io/media/icon_hu97fe3e40591f4d3389a975f0ec5a9dc7_247274_512x512_fill_lanczos_center_3.png</url>
       <title>Shang-Yi Chuang</title>
       <link>https://kagaminccino.github.io/</link>
     </image>
+    
+    <item>
+      <title>DTS Stock Tracking</title>
+      <link>https://kagaminccino.github.io/project/dts/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://kagaminccino.github.io/project/dts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Going Everywhere</title>
